@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Dawn_of_war_Remaster",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
