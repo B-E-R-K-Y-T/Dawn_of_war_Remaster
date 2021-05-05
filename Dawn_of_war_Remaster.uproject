@@ -7,7 +7,10 @@
 		{
 			"Name": "Dawn_of_war_Remaster",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
