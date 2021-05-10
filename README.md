@@ -1,3 +1,3 @@
 # Dawn_of_war_Remaster
 
-Developed with Unreal Engine 4
+Warhammer 40000: Dawn of war remaster project based on unreal engine.
